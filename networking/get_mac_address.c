@@ -1,3 +1,7 @@
+/*
+ * http://stackoverflow.com/questions/3964494/having-a-problem-figuring-out-how-to-get-ethernet-interface-info-on-mac-os-x-usi
+*/
+
 #if defined(HAVE_SIOCGIFHWADDR)
 bool get_mac_address(char* mac_addr, const char* if_name = "eth0")
 {
