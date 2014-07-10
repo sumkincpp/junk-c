@@ -358,5 +358,6 @@ main(int argc,
  
    exit(0);
 }
-
+/*
 Read more: http://blog.fpmurphy.com/2011/01/spoof-arp-and-icmp-echoreply-using-linux-packet-filter.html#ixzz372zLiiGe
+*/
